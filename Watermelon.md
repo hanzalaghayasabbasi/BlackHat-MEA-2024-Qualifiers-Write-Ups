@@ -25,7 +25,7 @@ You can find the challenge files [here](https://github.com/hanzalaghayasabbasi/B
 
    ![image](https://github.com/user-attachments/assets/a6802a2d-b197-482a-b340-8e8b508fb2cd)
 
-3. **Exploration and Exploitation**
+2. **Exploration and Exploitation**
 
    Upon analysis, I discovered that the admin password is stored in `app/app.py`. I also identified a file traversal vulnerability in the `/upload` directory.
    
@@ -39,13 +39,13 @@ You can find the challenge files [here](https://github.com/hanzalaghayasabbasi/B
 
    ![image](https://github.com/user-attachments/assets/b354a35e-c8ad-4a1a-8d49-dacc891046b0)
 
-5. **Gaining Access**
+3. **Gaining Access**
 
    I logged in with the admin credentials and copied the session cookies.
 
    ![image](https://github.com/user-attachments/assets/16972424-73a8-41b4-9a71-1d60b60e3e48)
 
-7. **Flag Retrieval**
+4. **Flag Retrieval**
 
    Finally, I sent a GET request to `/admin`, pasted the session cookie, and successfully retrieved the flag.
 
