@@ -11,7 +11,7 @@ I created a note sharing website for everyone to talk to themselves secretly. Do
 
 ## Challenge Files
 
-You can find the challenge files [here](https://github.com/D4rkTT/BlackHat-MEA-2024-Quals-Writeups/tree/main/Notey-src)
+You can find the challenge files [here](https://github.com/hanzalaghayasabbasi/BlackHat-MEA-2024-Qualifiers-Write-Ups/tree/main/Notey-src)
 
 ## Exploitation
 
