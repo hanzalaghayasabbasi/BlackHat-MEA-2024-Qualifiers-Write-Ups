@@ -11,7 +11,7 @@ Note: The code provided is without jailing, please note that when writing exploi
 
 ## Challenge Files
 
-You can find the challenge files [here](https://github.com/hanzalaghayasabbasi/BlackHat-MEA-2024-Qualifiers-Write-Ups/tree/main/FreeFlag-src)
+You can find the challenge files [here](https://github.com/hanzalaghayasabbasi/BlackHat-MEA-2024-Qualifiers-Write-Ups/tree/main/Watermelon-src)
 
 ## Steps Taken
 
