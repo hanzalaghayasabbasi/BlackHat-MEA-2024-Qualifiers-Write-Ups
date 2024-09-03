@@ -9,7 +9,7 @@
 
 I created a note sharing website for everyone to talk to themselves secretly. Don't try to access others notes, grass isn't greener :'( )
 
-## Challenge Code
+## Challenge Files
 
 You can find the challenge files [here](https://github.com/D4rkTT/BlackHat-MEA-2024-Quals-Writeups/tree/main/Notey-src)
 
